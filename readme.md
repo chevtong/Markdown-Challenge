@@ -8,7 +8,7 @@
 > _My bank account: like going yo the backyard?_
 
 
-![Professional picture](/C:\Users\chevt\Desktop\BeCode\Markdown\Wing.jpg)
+![Professional picture](https://user-images.githubusercontent.com/72804560/96007464-c9b86c00-0e3e-11eb-826c-5501db227b76.jpg)
 <br>
 <br>
 ## Someone dream to travel around with a small budget $$ 
